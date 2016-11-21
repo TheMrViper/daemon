@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/TheMrViper/gdaemon/pid"
+	"github.com/TheMrViper/daemon/pid"
 	"github.com/kardianos/osext"
 )
 

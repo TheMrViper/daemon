@@ -3,7 +3,7 @@ package daemon
 import (
 	"os"
 
-	"github.com/TheMrViper/gdaemon/pid"
+	"github.com/TheMrViper/daemon/pid"
 )
 
 type (
